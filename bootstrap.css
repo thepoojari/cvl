@@ -1,0 +1,57 @@
+.nav-brand
+{
+    color:white;
+    font-family:monospace;
+   
+}
+
+  .title
+  {
+      background-color:red;
+  }
+  h6
+  {
+      font-size:2em;
+      color:white;
+    font-family:fantasy;
+    margin-top:40px;
+    margin-left:40px;
+    margin-right:40px;
+    /* display:block; */
+    
+  }
+   
+  .btn
+  {
+    margin-left:2em;
+   
+    margin-top:15%;
+    border:white dashed;
+  }
+  .image
+  {
+      border:aqua solid;
+     }
+  .title2
+  {
+      background-color:#F0E9D2
+  }
+  .col
+  {
+      margin-top:100px;
+      padding-top:50px;
+      margin-left:50px;
+      text-align:center;
+  }
+  .next-line
+  {
+      position:relative;
+      bottom:20px;
+  }
+  .fas
+  {
+      font-size:5em;
+      position:relative;
+      left:10px;
+      color:orange;
+  }
